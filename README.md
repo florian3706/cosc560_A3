@@ -1,1 +1,1 @@
-Reach app for displaying blog posts
+React app for displaying blog posts
