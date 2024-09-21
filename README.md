@@ -1,4 +1,4 @@
-https://github.com/florian3706/COSC560-assignment-1
+https://github.com/florian3706/cosc560_A3
 
 # COSC560 Assignment 2 - Florian Mutter
 
@@ -9,13 +9,8 @@ https://github.com/florian3706/COSC560-assignment-1
 ### Setup
 
 - Clone git repo and move to the feature branch: `git checkout assignment_3`
-- Copy contents of `example.env` to `.env`
-- `composer install`
-- `php artisan migrate`
-- `php artisan db:seed`
-- `npm install`
-- `npm run dev`
-- Run laragon with project in correct www subdirectory in laragon
+- Move into app folder `cd assignment_3`
+- Run `npm start`
 
 ### Postman collection
 
