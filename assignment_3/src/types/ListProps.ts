@@ -9,5 +9,5 @@ export interface BlogPost {
 }
 
 export interface ListProps {
-  data: BlogPost[];
+  data?: BlogPost[];
 }

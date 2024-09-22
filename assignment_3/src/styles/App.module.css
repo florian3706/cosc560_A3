@@ -8,3 +8,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.pageTitle {
+  font-size: 2em;
+  margin: 40px;
+}

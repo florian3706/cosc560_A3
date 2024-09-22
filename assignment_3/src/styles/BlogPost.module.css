@@ -1,3 +1,4 @@
-p {
-    color: yellowgreen;
+.blogPost {
+    margin: 20px;
+    color: black;
 }
