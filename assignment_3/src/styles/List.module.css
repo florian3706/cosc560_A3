@@ -1,0 +1,13 @@
+.listItem {
+    margin-top: 30px;
+}
+li {
+    margin: 30px 30px 30px 0px;
+    list-style-type: none;
+    border: royalblue;
+    border-style: solid;
+    padding: 20px;
+}
+p {
+    font-size: small;
+}

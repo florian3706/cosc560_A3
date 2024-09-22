@@ -10,7 +10,7 @@ https://github.com/florian3706/cosc560_A3
 
 - Clone git repo and move to the feature branch: `git checkout assignment_3`
 - Move into app folder `cd assignment_3`
-- Run `npm start`
+- Run `npm start` or `npm run build`
 
 ### Postman collection
 
